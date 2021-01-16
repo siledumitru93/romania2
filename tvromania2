@@ -1,7 +1,7 @@
 #EXTM3U8
-#EXTINF:0 ,■■■ KKS-free ■■■
-http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
-#EXTINF:0 ,■■■ last update 20/09/2020 ■■■
+#EXTINF:0 ,■■■ KAnalD ■■■
+http://livefeed.kanald.ro/iphone/live.m3u8
+#EXTINF:0 ,
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/247.m3u8/Level(3670016)?start=LIVE&end=END
 ##########################################################
 #EXTINF:0 ,⚽️DIGISPORT 1 HD
