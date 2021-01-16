@@ -67,6 +67,7 @@ http://77.109.171.233:8000/play/a0dn
 #EXTINF:0 ,B1
 http://stream.adunity.com/b1/b1_640-.m3u8
 # ============
+http://livefeed.kanald.ro/iphone/live.m3u8
 #EXTINF:0 ,REALITATEA
 https://live.realitatea.net/livertmp/plus/playlist.m3u8
 #EXTINF:0 ,REALITATEA PLUS  
